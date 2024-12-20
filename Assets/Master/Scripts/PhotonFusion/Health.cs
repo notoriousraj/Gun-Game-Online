@@ -2,7 +2,7 @@
 using Fusion;
 using UnityEngine;
 
-namespace Starter.Shooter
+namespace Archery.Online
 {
 	/// <summary>
 	/// A common component that represents entity health.
